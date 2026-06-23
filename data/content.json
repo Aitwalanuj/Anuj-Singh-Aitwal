@@ -1,0 +1,321 @@
+{
+  "site": {
+    "brandName": "Anuj Singh Aitwal",
+    "logoText": "ASA",
+    "tagline": "Odoo Functional Consultant & Management Accountant",
+    "nav": [
+      {
+        "label": "Home",
+        "href": "#home"
+      },
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "Process",
+        "href": "#process"
+      },
+      {
+        "label": "Experience",
+        "href": "#experience"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ]
+  },
+  "seo": {
+    "title": "Anuj Singh Aitwal | Beginner-Friendly Odoo Consultant",
+    "description": "Odoo functional consulting, accounting automation, inventory valuation, financial reporting, and client training for growing businesses.",
+    "keywords": "Odoo consultant, Odoo accounting, Odoo implementation, Odoo training, ERP consultant Nepal"
+  },
+  "hero": {
+    "eyebrow": "Beginner-friendly Odoo ERP consulting",
+    "title": "Make Odoo simple for your finance, sales, purchase, and inventory teams.",
+    "subtitle": "I help businesses understand, configure, and use Odoo without confusion - from accounting setup and VAT reporting to inventory valuation, reconciliation, and team training.",
+    "primaryCtaText": "Request Odoo Consultation",
+    "primaryCtaLink": "#contact",
+    "secondaryCtaText": "View Experience",
+    "secondaryCtaLink": "#experience",
+    "note": "Focused on practical implementation, automation, reporting, and client training.",
+    "badges": [
+      "Accounting",
+      "Sales",
+      "Purchase",
+      "Inventory",
+      "Repair",
+      "Subscription",
+      "Expenses"
+    ]
+  },
+  "stats": [
+    {
+      "value": "3+ years",
+      "label": "Combined Odoo, audit, and finance experience"
+    },
+    {
+      "value": "15+",
+      "label": "Audit, taxation, and reporting clients handled"
+    },
+    {
+      "value": "7+",
+      "label": "Odoo modules configured and supported"
+    },
+    {
+      "value": "100%",
+      "label": "Training-focused implementation approach"
+    }
+  ],
+  "about": {
+    "title": "Odoo consulting with an accounting-first mindset",
+    "subtitle": "Built for businesses that need Odoo to be practical, clean, and easy for non-technical users.",
+    "paragraphs": [
+      "I am a finance and accounting professional with hands-on experience in Odoo ERP implementation, auditing, financial reporting, compliance, and business process automation.",
+      "My work focuses on helping teams set up Odoo properly, understand the workflow, reduce manual work, and improve the accuracy of financial and operational reporting."
+    ]
+  },
+  "services": [
+    {
+      "title": "Odoo Implementation",
+      "description": "Step-by-step implementation for companies moving from manual processes, Excel, or legacy accounting software to Odoo.",
+      "bullets": [
+        "Company and chart of accounts setup",
+        "Sales, purchase, and inventory flow",
+        "Accounting and finance configuration"
+      ]
+    },
+    {
+      "title": "Odoo Accounting Setup",
+      "description": "Accounting-focused configuration for invoices, bills, bank statements, VAT/TDS reporting, reconciliation, and financial reports.",
+      "bullets": [
+        "Invoice and bill workflows",
+        "Bank statement management",
+        "P&L and VAT reporting formats"
+      ]
+    },
+    {
+      "title": "Inventory & Valuation Support",
+      "description": "Support for inventory booking, stock valuation, cost tracking, and issue resolution for trading, import, and operational businesses.",
+      "bullets": [
+        "Inventory valuation review",
+        "Import cost-center separation",
+        "Stock and accounting integration"
+      ]
+    },
+    {
+      "title": "Automation & Reports",
+      "description": "Automation to reduce manual entries and create useful reporting for finance and management teams.",
+      "bullets": [
+        "Automated reporting systems",
+        "Reconciliation improvements",
+        "Process streamlining"
+      ]
+    },
+    {
+      "title": "User Training",
+      "description": "Beginner-friendly training for finance, sales, purchase, inventory, repair, and operations users.",
+      "bullets": [
+        "Module-wise training",
+        "Client handover sessions",
+        "Best-practice guidance"
+      ]
+    },
+    {
+      "title": "Odoo Support & Optimization",
+      "description": "Support for existing Odoo users who need smoother workflows, issue fixes, cleaner configuration, and better adoption.",
+      "bullets": [
+        "Operational bottleneck review",
+        "Configuration cleanup",
+        "Complex valuation issue support"
+      ]
+    }
+  ],
+  "process": {
+    "title": "A simple Odoo implementation process",
+    "subtitle": "The goal is not only to install Odoo, but to make your team comfortable using it every day.",
+    "steps": [
+      {
+        "title": "1. Understand current process",
+        "description": "Review how your sales, purchase, inventory, accounting, repair, expenses, and reporting work today."
+      },
+      {
+        "title": "2. Map Odoo workflow",
+        "description": "Design the right Odoo flow before configuration so users understand what will change and why."
+      },
+      {
+        "title": "3. Configure and test",
+        "description": "Set up modules, reports, taxes, valuation, users, approvals, and automation with test transactions."
+      },
+      {
+        "title": "4. Train and support",
+        "description": "Train users in simple language, solve issues, and improve configuration after real usage feedback."
+      }
+    ]
+  },
+  "modules": {
+    "title": "Odoo modules I work with",
+    "items": [
+      "Accounting",
+      "Finance",
+      "Sales",
+      "Purchase",
+      "Inventory",
+      "Repair",
+      "Subscription",
+      "Expenses"
+    ]
+  },
+  "industries": {
+    "title": "Best fit businesses",
+    "items": [
+      {
+        "title": "Trading & Wholesale",
+        "description": "Purchase, sales, inventory valuation, pricing, and financial reporting."
+      },
+      {
+        "title": "Import Operations",
+        "description": "Cost center separation, landed cost tracking, and import-related accounting visibility."
+      },
+      {
+        "title": "Service Firms",
+        "description": "Expenses, billing, reporting, project-style tracking, and accounting control."
+      },
+      {
+        "title": "Repair & Subscription Businesses",
+        "description": "Repair workflow, subscription billing, customer records, and integrated accounting."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Work experience",
+    "items": [
+      {
+        "role": "Odoo Functional Consultant and Management Accountant",
+        "company": "Nepa Works Group company - US based",
+        "period": "5 months - currently working",
+        "summary": "Supporting Odoo functional consulting, accounting processes, reporting, and operational improvements.",
+        "highlights": [
+          "Odoo account handling",
+          "Finance and accounting module support",
+          "Reporting and process improvement"
+        ]
+      },
+      {
+        "role": "Odoo Functional Consultant and Client Odoo Account Head",
+        "company": "Smarten Technologies Pvt. Ltd.",
+        "period": "7 months",
+        "summary": "Implemented and customized Odoo across multiple modules with a strong focus on accounting, reporting, and workflow optimization.",
+        "highlights": [
+          "Sales, purchase, inventory, repair, subscription, and accounting modules",
+          "VAT and P&L report customization",
+          "Invoice, reconciliation, and bank statement automation",
+          "Inventory valuation and booking process improvement"
+        ]
+      },
+      {
+        "role": "Audit Associate",
+        "company": "S.S.M Associates, Chartered Accountants",
+        "period": "9 months",
+        "summary": "Handled audits, financial statements, statutory filings, payroll, and compliance for multiple sectors.",
+        "highlights": [
+          "Manufacturing, trading, NGO, and hospitality audits",
+          "TDS/VAT filing",
+          "Financial statement preparation"
+        ]
+      },
+      {
+        "role": "Audit Associate",
+        "company": "S and S Associates",
+        "period": "Earlier role",
+        "summary": "Supported transaction testing, inventory audits, reporting, tax compliance, and accounting software implementation.",
+        "highlights": [
+          "Financial transaction testing",
+          "Inventory audit support",
+          "Client training and software implementation assistance"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Key project achievements",
+    "items": [
+      "Implemented Odoo Accounting and Finance modules with automation for reconciliation, invoices, and bank statements.",
+      "Designed cost center structures for import operations to improve financial tracking.",
+      "Optimized Sales, Purchase, Inventory, Repair, and Expenses modules for smoother operations.",
+      "Resolved complex valuation issues and improved accuracy through automation.",
+      "Improved client business processes through ERP optimization and best-practice training."
+    ]
+  },
+  "skills": {
+    "title": "Skills and tools",
+    "groups": [
+      {
+        "title": "ERP Systems",
+        "items": [
+          "Odoo ERP",
+          "Tally ERP",
+          "Swastik Accounting"
+        ]
+      },
+      {
+        "title": "Accounting",
+        "items": [
+          "Financial Reporting",
+          "Taxation",
+          "Auditing",
+          "Bookkeeping"
+        ]
+      },
+      {
+        "title": "Odoo Modules",
+        "items": [
+          "Accounting",
+          "Finance",
+          "Sales",
+          "Purchase",
+          "Inventory",
+          "Repair",
+          "Subscription",
+          "Expenses"
+        ]
+      },
+      {
+        "title": "Professional",
+        "items": [
+          "Process Automation",
+          "System Implementation",
+          "Client Training",
+          "Advanced Excel"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      "ACCA - Bachelor's Equivalent - Currently Pursuing",
+      "BBS 4th Year - Tribhuvan University - Currently Pursuing"
+    ]
+  },
+  "contact": {
+    "title": "Request a beginner-friendly Odoo consultation",
+    "subtitle": "Tell me what you need help with. I will review your current process and suggest the next practical step.",
+    "phone": "9868857011",
+    "email": "anujaitwa43@gmail.com",
+    "location": "Chabhail, Kathmandu",
+    "formTitle": "Consultation request",
+    "formEndpoint": "",
+    "formSuccessMessage": "Thank you. I will get back to you soon."
+  },
+  "footer": {
+    "text": "Odoo Functional Consultant & Management Accountant focused on practical ERP implementation, accounting automation, and beginner-friendly training.",
+    "copyright": "© 2026 Anuj Singh Aitwal. All rights reserved."
+  },
+  "serviceIntro": {
+    "kicker": "Services",
+    "title": "Beginner-friendly Odoo services",
+    "subtitle": "Editable from the CMS. Add, remove, or rename any service without touching the frontend code."
+  }
+}

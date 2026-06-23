@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anuj Singh Aitwal | Odoo Consultant</title>
+  <meta name="description" content="Beginner-friendly Odoo functional consultant website.">
+  <link rel="preload" href="assets/css/style.css" as="style">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header" id="top">
+    <div class="container header-inner">
+      <a class="brand" href="#home" aria-label="Home">
+        <span class="brand-mark" data-bind="site.logoText">ASA</span>
+        <span>
+          <strong data-bind="site.brandName">Anuj Singh Aitwal</strong>
+          <small data-bind="site.tagline">Odoo Functional Consultant</small>
+        </span>
+      </a>
+      <button class="menu-button" id="menuButton" type="button" aria-label="Toggle navigation">Menu</button>
+      <nav class="main-nav" id="mainNav" aria-label="Primary navigation"></nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow" data-bind="hero.eyebrow">Beginner-friendly Odoo ERP consulting</p>
+          <h1 data-bind="hero.title">Make Odoo simple for your finance and operations teams.</h1>
+          <p class="hero-subtitle" data-bind="hero.subtitle">I help businesses configure and use Odoo without confusion.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" data-bind-href="hero.primaryCtaLink" data-bind="hero.primaryCtaText" href="#contact">Request Consultation</a>
+            <a class="button button-secondary" data-bind-href="hero.secondaryCtaLink" data-bind="hero.secondaryCtaText" href="#experience">View Experience</a>
+          </div>
+          <p class="hero-note" data-bind="hero.note">Focused on practical implementation.</p>
+          <div class="badge-row" id="heroBadges"></div>
+        </div>
+        <aside class="hero-card" aria-label="Consultant profile summary">
+          <div class="profile-circle" data-bind="site.logoText">ASA</div>
+          <h2 data-bind="site.brandName">Anuj Singh Aitwal</h2>
+          <p data-bind="site.tagline">Odoo Functional Consultant & Management Accountant</p>
+          <div class="contact-mini">
+            <span data-bind="contact.location">Kathmandu</span>
+            <span data-bind="contact.email">email@example.com</span>
+            <span data-bind="contact.phone">0000000000</span>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="stats-section" aria-label="Key numbers">
+      <div class="container stats-grid" id="statsGrid"></div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="container split-grid">
+        <div>
+          <p class="section-kicker">About</p>
+          <h2 data-bind="about.title">Odoo consulting with an accounting-first mindset</h2>
+        </div>
+        <div>
+          <p class="section-lead" data-bind="about.subtitle">Built for practical use.</p>
+          <div id="aboutParagraphs" class="paragraph-stack"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-soft" id="services">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-kicker" data-bind="serviceIntro.kicker">Services</p>
+          <h2 data-bind="serviceIntro.title">Beginner-friendly Odoo services</h2>
+          <p data-bind="serviceIntro.subtitle">Editable from the CMS. Add, remove, or rename any service without touching the frontend code.</p>
+        </div>
+        <div class="card-grid" id="servicesGrid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="process">
+      <div class="container">
+        <div class="section-heading compact">
+          <p class="section-kicker">Process</p>
+          <h2 data-bind="process.title">A simple implementation process</h2>
+          <p data-bind="process.subtitle">The goal is adoption, not only installation.</p>
+        </div>
+        <div class="timeline" id="processSteps"></div>
+      </div>
+    </section>
+
+    <section class="section section-soft" id="modules">
+      <div class="container modules-grid">
+        <div>
+          <p class="section-kicker">Modules</p>
+          <h2 data-bind="modules.title">Odoo modules I work with</h2>
+          <p>Use this section to show the areas where clients can ask for help.</p>
+        </div>
+        <div class="module-pills" id="modulePills"></div>
+      </div>
+    </section>
+
+    <section class="section" id="industries">
+      <div class="container">
+        <div class="section-heading compact">
+          <p class="section-kicker">Fit</p>
+          <h2 data-bind="industries.title">Best fit businesses</h2>
+        </div>
+        <div class="card-grid small" id="industriesGrid"></div>
+      </div>
+    </section>
+
+    <section class="section section-soft" id="experience">
+      <div class="container">
+        <div class="section-heading compact">
+          <p class="section-kicker">Experience</p>
+          <h2 data-bind="experience.title">Work experience</h2>
+        </div>
+        <div class="experience-list" id="experienceList"></div>
+      </div>
+    </section>
+
+    <section class="section" id="projects">
+      <div class="container split-grid">
+        <div>
+          <p class="section-kicker">Achievements</p>
+          <h2 data-bind="projects.title">Key project achievements</h2>
+        </div>
+        <ul class="check-list" id="projectList"></ul>
+      </div>
+    </section>
+
+    <section class="section section-soft" id="skills">
+      <div class="container">
+        <div class="section-heading compact">
+          <p class="section-kicker">Skills</p>
+          <h2 data-bind="skills.title">Skills and tools</h2>
+        </div>
+        <div class="skills-grid" id="skillsGrid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="education">
+      <div class="container split-grid">
+        <div>
+          <p class="section-kicker">Education</p>
+          <h2 data-bind="education.title">Education</h2>
+        </div>
+        <ul class="check-list" id="educationList"></ul>
+      </div>
+    </section>
+
+    <section class="section contact-section" id="contact">
+      <div class="container contact-grid">
+        <div>
+          <p class="section-kicker">Contact</p>
+          <h2 data-bind="contact.title">Request a consultation</h2>
+          <p class="section-lead" data-bind="contact.subtitle">Tell me what you need help with.</p>
+          <div class="contact-panel">
+            <p><strong>Phone:</strong> <a id="phoneLink" href="#" data-bind="contact.phone">9868857011</a></p>
+            <p><strong>Email:</strong> <a id="emailLink" href="#" data-bind="contact.email">email@example.com</a></p>
+            <p><strong>Location:</strong> <span data-bind="contact.location">Kathmandu</span></p>
+          </div>
+        </div>
+        <form class="contact-form" id="consultationForm">
+          <h3 data-bind="contact.formTitle">Consultation request</h3>
+          <label>Full Name<input name="name" type="text" required></label>
+          <label>Work Email<input name="email" type="email" required></label>
+          <label>Company Name<input name="company" type="text"></label>
+          <label>What do you need help with?
+            <select name="challenge" required>
+              <option value="">Select one</option>
+              <option>New Odoo implementation</option>
+              <option>Odoo accounting setup</option>
+              <option>Inventory valuation issue</option>
+              <option>User training</option>
+              <option>Report customization</option>
+              <option>Existing Odoo support</option>
+            </select>
+          </label>
+          <label>Message<textarea name="message" rows="5" placeholder="Example: We need help setting up accounting, inventory, VAT reporting..."></textarea></label>
+          <label class="hp-field">Leave this field empty<input name="website" type="text" tabindex="-1" autocomplete="off"></label>
+          <button class="button button-primary" type="submit">Submit Request</button>
+          <p class="form-status" id="formStatus" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong data-bind="site.brandName">Anuj Singh Aitwal</strong>
+        <p data-bind="footer.text">Odoo consultant focused on practical ERP implementation.</p>
+      </div>
+      <div>
+        <p data-bind="footer.copyright">© 2026 Anuj Singh Aitwal.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
